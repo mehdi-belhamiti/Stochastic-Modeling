@@ -1,4 +1,4 @@
-# Stochastic Modeling : Five Simulated Case Studies in Python 🎲
+# Stochastic Modeling : Five Simulated Case Studies in Python
 
 This repository contains a synthesis report and practical implementations completed for the **Modeling** course (2nd year) of the **Double Bachelor's Degree in Mathematics and Economics** at **Paris-Saclay University**.
 
